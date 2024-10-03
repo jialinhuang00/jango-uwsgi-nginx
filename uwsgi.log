@@ -1,0 +1,701 @@
+*** Starting uWSGI 2.0.27 (64bit) on [Wed Oct  2 23:55:43 2024] ***
+compiled with version: Apple LLVM 15.0.0 (clang-1500.3.9.4) on 02 October 2024 14:56:11
+os: Darwin-23.4.0 Darwin Kernel Version 23.4.0: Wed Feb 21 21:44:43 PST 2024; root:xnu-10063.101.15~2/RELEASE_ARM64_T6000
+nodename: JiaLins-MBP.hitronhub.home
+machine: arm64
+clock source: unix
+pcre jit disabled
+detected number of CPU cores: 10
+current working directory: /Users/jialinhuang/Desktop/jango/jialinwebsite
+writing pidfile to /tmp/dj3-master.pid
+detected binary path: /Users/jialinhuang/Desktop/jango/myenv/bin/uwsgi
+your processes number limit is 2666
+your memory page size is 16384 bytes
+detected max file descriptor number: 256
+lock engine: OSX spinlocks
+thunder lock: disabled (you can enable it with --thunder-lock)
+uwsgi socket 0 bound to UNIX address /Users/jialinhuang/Desktop/jango/jialinwebsite/www.sock fd 3
+Python version: 3.12.6 (main, Sep  6 2024, 19:03:47) [Clang 15.0.0 (clang-1500.3.9.4)]
+Python main interpreter initialized at 0x1013cce00
+python threads support enabled
+your server socket listen backlog is limited to 100 connections
+your mercy for graceful operations on workers is 60 seconds
+mapped 145792 bytes (142 KB) for 1 cores
+*** Operational MODE: single process ***
+WSGI app 0 (mountpoint='') ready in 0 seconds on interpreter 0x1013cce00 pid: 22996 (default app)
+*** uWSGI is running in multiple interpreter mode ***
+spawned uWSGI master process (pid: 22996)
+spawned uWSGI worker 1 (pid: 22997, cores: 1)
+SIGINT/SIGTERM received...killing workers...
+goodbye to uWSGI.
+VACUUM: pidfile removed.
+VACUUM: unix socket /Users/jialinhuang/Desktop/jango/jialinwebsite/www.sock removed.
+*** Starting uWSGI 2.0.27 (64bit) on [Thu Oct  3 00:02:17 2024] ***
+compiled with version: Apple LLVM 15.0.0 (clang-1500.3.9.4) on 02 October 2024 14:56:11
+os: Darwin-23.4.0 Darwin Kernel Version 23.4.0: Wed Feb 21 21:44:43 PST 2024; root:xnu-10063.101.15~2/RELEASE_ARM64_T6000
+nodename: JiaLins-MBP.hitronhub.home
+machine: arm64
+clock source: unix
+pcre jit disabled
+detected number of CPU cores: 10
+current working directory: /Users/jialinhuang/Desktop/jango/jialinwebsite
+writing pidfile to /tmp/dj3-master.pid
+detected binary path: /Users/jialinhuang/Desktop/jango/myenv/bin/uwsgi
+your processes number limit is 2666
+your memory page size is 16384 bytes
+detected max file descriptor number: 256
+lock engine: OSX spinlocks
+thunder lock: disabled (you can enable it with --thunder-lock)
+uwsgi socket 0 bound to UNIX address /Users/jialinhuang/Desktop/jango/jialinwebsite/www.sock fd 3
+Python version: 3.12.6 (main, Sep  6 2024, 19:03:47) [Clang 15.0.0 (clang-1500.3.9.4)]
+Python main interpreter initialized at 0x1011f4e00
+python threads support enabled
+your server socket listen backlog is limited to 100 connections
+your mercy for graceful operations on workers is 60 seconds
+mapped 145792 bytes (142 KB) for 1 cores
+*** Operational MODE: single process ***
+WSGI app 0 (mountpoint='') ready in 0 seconds on interpreter 0x1011f4e00 pid: 25342 (default app)
+*** uWSGI is running in multiple interpreter mode ***
+spawned uWSGI master process (pid: 25342)
+spawned uWSGI worker 1 (pid: 25343, cores: 1)
+SIGINT/SIGTERM received...killing workers...
+goodbye to uWSGI.
+VACUUM: pidfile removed.
+VACUUM: unix socket /Users/jialinhuang/Desktop/jango/jialinwebsite/www.sock removed.
+*** Starting uWSGI 2.0.27 (64bit) on [Thu Oct  3 00:02:24 2024] ***
+compiled with version: Apple LLVM 15.0.0 (clang-1500.3.9.4) on 02 October 2024 14:56:11
+os: Darwin-23.4.0 Darwin Kernel Version 23.4.0: Wed Feb 21 21:44:43 PST 2024; root:xnu-10063.101.15~2/RELEASE_ARM64_T6000
+nodename: JiaLins-MBP.hitronhub.home
+machine: arm64
+clock source: unix
+pcre jit disabled
+detected number of CPU cores: 10
+current working directory: /Users/jialinhuang/Desktop/jango/jialinwebsite
+writing pidfile to /tmp/dj3-master.pid
+detected binary path: /Users/jialinhuang/Desktop/jango/myenv/bin/uwsgi
+your processes number limit is 2666
+your memory page size is 16384 bytes
+detected max file descriptor number: 256
+lock engine: OSX spinlocks
+thunder lock: disabled (you can enable it with --thunder-lock)
+uwsgi socket 0 bound to UNIX address /Users/jialinhuang/Desktop/jango/jialinwebsite/www.sock fd 3
+Python version: 3.12.6 (main, Sep  6 2024, 19:03:47) [Clang 15.0.0 (clang-1500.3.9.4)]
+Python main interpreter initialized at 0x103d50e00
+python threads support enabled
+your server socket listen backlog is limited to 100 connections
+your mercy for graceful operations on workers is 60 seconds
+mapped 145792 bytes (142 KB) for 1 cores
+*** Operational MODE: single process ***
+WSGI app 0 (mountpoint='') ready in 1 seconds on interpreter 0x103d50e00 pid: 25395 (default app)
+*** uWSGI is running in multiple interpreter mode ***
+spawned uWSGI master process (pid: 25395)
+spawned uWSGI worker 1 (pid: 25396, cores: 1)
+SIGINT/SIGTERM received...killing workers...
+goodbye to uWSGI.
+VACUUM: pidfile removed.
+VACUUM: unix socket /Users/jialinhuang/Desktop/jango/jialinwebsite/www.sock removed.
+*** Starting uWSGI 2.0.27 (64bit) on [Thu Oct  3 00:02:41 2024] ***
+compiled with version: Apple LLVM 15.0.0 (clang-1500.3.9.4) on 02 October 2024 14:56:11
+os: Darwin-23.4.0 Darwin Kernel Version 23.4.0: Wed Feb 21 21:44:43 PST 2024; root:xnu-10063.101.15~2/RELEASE_ARM64_T6000
+nodename: JiaLins-MBP.hitronhub.home
+machine: arm64
+clock source: unix
+pcre jit disabled
+detected number of CPU cores: 10
+current working directory: /Users/jialinhuang/Desktop/jango/jialinwebsite
+writing pidfile to /tmp/dj3-master.pid
+detected binary path: /Users/jialinhuang/Desktop/jango/myenv/bin/uwsgi
+your processes number limit is 2666
+your memory page size is 16384 bytes
+detected max file descriptor number: 256
+lock engine: OSX spinlocks
+thunder lock: disabled (you can enable it with --thunder-lock)
+uwsgi socket 0 bound to UNIX address /Users/jialinhuang/Desktop/jango/jialinwebsite/www.sock fd 3
+Python version: 3.12.6 (main, Sep  6 2024, 19:03:47) [Clang 15.0.0 (clang-1500.3.9.4)]
+Python main interpreter initialized at 0x103cf4e00
+python threads support enabled
+your server socket listen backlog is limited to 100 connections
+your mercy for graceful operations on workers is 60 seconds
+mapped 145792 bytes (142 KB) for 1 cores
+*** Operational MODE: single process ***
+WSGI app 0 (mountpoint='') ready in 0 seconds on interpreter 0x103cf4e00 pid: 25547 (default app)
+*** uWSGI is running in multiple interpreter mode ***
+spawned uWSGI master process (pid: 25547)
+spawned uWSGI worker 1 (pid: 25548, cores: 1)
+SIGINT/SIGTERM received...killing workers...
+goodbye to uWSGI.
+VACUUM: pidfile removed.
+VACUUM: unix socket /Users/jialinhuang/Desktop/jango/jialinwebsite/www.sock removed.
+*** Starting uWSGI 2.0.27 (64bit) on [Thu Oct  3 00:03:03 2024] ***
+compiled with version: Apple LLVM 15.0.0 (clang-1500.3.9.4) on 02 October 2024 14:56:11
+os: Darwin-23.4.0 Darwin Kernel Version 23.4.0: Wed Feb 21 21:44:43 PST 2024; root:xnu-10063.101.15~2/RELEASE_ARM64_T6000
+nodename: JiaLins-MBP.hitronhub.home
+machine: arm64
+clock source: unix
+pcre jit disabled
+detected number of CPU cores: 10
+current working directory: /Users/jialinhuang/Desktop/jango/jialinwebsite
+writing pidfile to /tmp/dj3-master.pid
+detected binary path: /Users/jialinhuang/Desktop/jango/myenv/bin/uwsgi
+your processes number limit is 2666
+your memory page size is 16384 bytes
+detected max file descriptor number: 256
+lock engine: OSX spinlocks
+thunder lock: disabled (you can enable it with --thunder-lock)
+uwsgi socket 0 bound to UNIX address /Users/jialinhuang/Desktop/jango/jialinwebsite/www.sock fd 3
+Python version: 3.12.6 (main, Sep  6 2024, 19:03:47) [Clang 15.0.0 (clang-1500.3.9.4)]
+Python main interpreter initialized at 0x105a54e00
+python threads support enabled
+your server socket listen backlog is limited to 100 connections
+your mercy for graceful operations on workers is 60 seconds
+mapped 145792 bytes (142 KB) for 1 cores
+*** Operational MODE: single process ***
+WSGI app 0 (mountpoint='') ready in 1 seconds on interpreter 0x105a54e00 pid: 25684 (default app)
+*** uWSGI is running in multiple interpreter mode ***
+spawned uWSGI master process (pid: 25684)
+spawned uWSGI worker 1 (pid: 25685, cores: 1)
+SIGINT/SIGTERM received...killing workers...
+goodbye to uWSGI.
+VACUUM: pidfile removed.
+VACUUM: unix socket /Users/jialinhuang/Desktop/jango/jialinwebsite/www.sock removed.
+*** Starting uWSGI 2.0.27 (64bit) on [Thu Oct  3 00:03:16 2024] ***
+compiled with version: Apple LLVM 15.0.0 (clang-1500.3.9.4) on 02 October 2024 14:56:11
+os: Darwin-23.4.0 Darwin Kernel Version 23.4.0: Wed Feb 21 21:44:43 PST 2024; root:xnu-10063.101.15~2/RELEASE_ARM64_T6000
+nodename: JiaLins-MBP.hitronhub.home
+machine: arm64
+clock source: unix
+pcre jit disabled
+detected number of CPU cores: 10
+current working directory: /Users/jialinhuang/Desktop/jango/jialinwebsite
+writing pidfile to /tmp/dj3-master.pid
+detected binary path: /Users/jialinhuang/Desktop/jango/myenv/bin/uwsgi
+your processes number limit is 2666
+your memory page size is 16384 bytes
+detected max file descriptor number: 256
+lock engine: OSX spinlocks
+thunder lock: disabled (you can enable it with --thunder-lock)
+uwsgi socket 0 bound to UNIX address /Users/jialinhuang/Desktop/jango/jialinwebsite/www.sock fd 3
+Python version: 3.12.6 (main, Sep  6 2024, 19:03:47) [Clang 15.0.0 (clang-1500.3.9.4)]
+Python main interpreter initialized at 0x103254e00
+python threads support enabled
+your server socket listen backlog is limited to 100 connections
+your mercy for graceful operations on workers is 60 seconds
+mapped 145792 bytes (142 KB) for 1 cores
+*** Operational MODE: single process ***
+WSGI app 0 (mountpoint='') ready in 0 seconds on interpreter 0x103254e00 pid: 25784 (default app)
+*** uWSGI is running in multiple interpreter mode ***
+spawned uWSGI master process (pid: 25784)
+spawned uWSGI worker 1 (pid: 25785, cores: 1)
+SIGINT/SIGTERM received...killing workers...
+goodbye to uWSGI.
+VACUUM: pidfile removed.
+VACUUM: unix socket /Users/jialinhuang/Desktop/jango/jialinwebsite/www.sock removed.
+*** Starting uWSGI 2.0.27 (64bit) on [Thu Oct  3 00:05:55 2024] ***
+compiled with version: Apple LLVM 15.0.0 (clang-1500.3.9.4) on 02 October 2024 14:56:11
+os: Darwin-23.4.0 Darwin Kernel Version 23.4.0: Wed Feb 21 21:44:43 PST 2024; root:xnu-10063.101.15~2/RELEASE_ARM64_T6000
+nodename: JiaLins-MBP.hitronhub.home
+machine: arm64
+clock source: unix
+pcre jit disabled
+detected number of CPU cores: 10
+current working directory: /Users/jialinhuang/Desktop/jango/jialinwebsite
+writing pidfile to /tmp/dj3-master.pid
+detected binary path: /Users/jialinhuang/Desktop/jango/myenv/bin/uwsgi
+your processes number limit is 2666
+your memory page size is 16384 bytes
+detected max file descriptor number: 256
+lock engine: OSX spinlocks
+thunder lock: disabled (you can enable it with --thunder-lock)
+uwsgi socket 0 bound to UNIX address /Users/jialinhuang/Desktop/jango/jialinwebsite/www.sock fd 3
+Python version: 3.12.6 (main, Sep  6 2024, 19:03:47) [Clang 15.0.0 (clang-1500.3.9.4)]
+Python main interpreter initialized at 0x103ec4e00
+python threads support enabled
+your server socket listen backlog is limited to 100 connections
+your mercy for graceful operations on workers is 60 seconds
+mapped 145792 bytes (142 KB) for 1 cores
+*** Operational MODE: single process ***
+WSGI app 0 (mountpoint='') ready in 0 seconds on interpreter 0x103ec4e00 pid: 26689 (default app)
+*** uWSGI is running in multiple interpreter mode ***
+spawned uWSGI master process (pid: 26689)
+spawned uWSGI worker 1 (pid: 26690, cores: 1)
+SIGINT/SIGTERM received...killing workers...
+goodbye to uWSGI.
+VACUUM: pidfile removed.
+VACUUM: unix socket /Users/jialinhuang/Desktop/jango/jialinwebsite/www.sock removed.
+*** Starting uWSGI 2.0.27 (64bit) on [Thu Oct  3 00:06:11 2024] ***
+compiled with version: Apple LLVM 15.0.0 (clang-1500.3.9.4) on 02 October 2024 14:56:11
+os: Darwin-23.4.0 Darwin Kernel Version 23.4.0: Wed Feb 21 21:44:43 PST 2024; root:xnu-10063.101.15~2/RELEASE_ARM64_T6000
+nodename: JiaLins-MBP.hitronhub.home
+machine: arm64
+clock source: unix
+pcre jit disabled
+detected number of CPU cores: 10
+current working directory: /Users/jialinhuang/Desktop/jango/jialinwebsite
+writing pidfile to /tmp/dj3-master.pid
+detected binary path: /Users/jialinhuang/Desktop/jango/myenv/bin/uwsgi
+your processes number limit is 2666
+your memory page size is 16384 bytes
+detected max file descriptor number: 256
+lock engine: OSX spinlocks
+thunder lock: disabled (you can enable it with --thunder-lock)
+uwsgi socket 0 bound to UNIX address /Users/jialinhuang/Desktop/jango/jialinwebsite/www.sock fd 3
+Python version: 3.12.6 (main, Sep  6 2024, 19:03:47) [Clang 15.0.0 (clang-1500.3.9.4)]
+Python main interpreter initialized at 0x105f8ce00
+python threads support enabled
+your server socket listen backlog is limited to 100 connections
+your mercy for graceful operations on workers is 60 seconds
+mapped 145792 bytes (142 KB) for 1 cores
+*** Operational MODE: single process ***
+WSGI app 0 (mountpoint='') ready in 0 seconds on interpreter 0x105f8ce00 pid: 26809 (default app)
+*** uWSGI is running in multiple interpreter mode ***
+spawned uWSGI master process (pid: 26809)
+spawned uWSGI worker 1 (pid: 26810, cores: 1)
+SIGINT/SIGTERM received...killing workers...
+goodbye to uWSGI.
+VACUUM: pidfile removed.
+VACUUM: unix socket /Users/jialinhuang/Desktop/jango/jialinwebsite/www.sock removed.
+*** Starting uWSGI 2.0.27 (64bit) on [Thu Oct  3 00:08:04 2024] ***
+compiled with version: Apple LLVM 15.0.0 (clang-1500.3.9.4) on 02 October 2024 14:56:11
+os: Darwin-23.4.0 Darwin Kernel Version 23.4.0: Wed Feb 21 21:44:43 PST 2024; root:xnu-10063.101.15~2/RELEASE_ARM64_T6000
+nodename: JiaLins-MBP.hitronhub.home
+machine: arm64
+clock source: unix
+pcre jit disabled
+detected number of CPU cores: 10
+current working directory: /Users/jialinhuang/Desktop/jango/jialinwebsite
+writing pidfile to /tmp/dj3-master.pid
+detected binary path: /Users/jialinhuang/Desktop/jango/myenv/bin/uwsgi
+your processes number limit is 2666
+your memory page size is 16384 bytes
+detected max file descriptor number: 256
+lock engine: OSX spinlocks
+thunder lock: disabled (you can enable it with --thunder-lock)
+uwsgi socket 0 bound to UNIX address /Users/jialinhuang/Desktop/jango/jialinwebsite/www.sock fd 3
+Python version: 3.12.6 (main, Sep  6 2024, 19:03:47) [Clang 15.0.0 (clang-1500.3.9.4)]
+Python main interpreter initialized at 0x103818e00
+python threads support enabled
+your server socket listen backlog is limited to 100 connections
+your mercy for graceful operations on workers is 60 seconds
+mapped 145792 bytes (142 KB) for 1 cores
+*** Operational MODE: single process ***
+WSGI app 0 (mountpoint='') ready in 0 seconds on interpreter 0x103818e00 pid: 27455 (default app)
+*** uWSGI is running in multiple interpreter mode ***
+spawned uWSGI master process (pid: 27455)
+spawned uWSGI worker 1 (pid: 27456, cores: 1)
+Not Found: /
+[pid: 27456|app: 0|req: 1/1] 127.0.0.1 () {54 vars in 855 bytes} [Wed Oct  2 16:10:30 2024] GET / => generated 2671 bytes in 29 msecs (HTTP/1.1 404) 6 headers in 215 bytes (1 switches on core 0)
+SIGINT/SIGTERM received...killing workers...
+goodbye to uWSGI.
+VACUUM: pidfile removed.
+VACUUM: unix socket /Users/jialinhuang/Desktop/jango/jialinwebsite/www.sock removed.
+*** Starting uWSGI 2.0.27 (64bit) on [Thu Oct  3 00:12:31 2024] ***
+compiled with version: Apple LLVM 15.0.0 (clang-1500.3.9.4) on 02 October 2024 14:56:11
+os: Darwin-23.4.0 Darwin Kernel Version 23.4.0: Wed Feb 21 21:44:43 PST 2024; root:xnu-10063.101.15~2/RELEASE_ARM64_T6000
+nodename: JiaLins-MBP.hitronhub.home
+machine: arm64
+clock source: unix
+pcre jit disabled
+detected number of CPU cores: 10
+current working directory: /Users/jialinhuang/Desktop/jango/jialinwebsite
+writing pidfile to /tmp/dj3-master.pid
+detected binary path: /Users/jialinhuang/Desktop/jango/myenv/bin/uwsgi
+your processes number limit is 2666
+your memory page size is 16384 bytes
+detected max file descriptor number: 256
+lock engine: OSX spinlocks
+thunder lock: disabled (you can enable it with --thunder-lock)
+uwsgi socket 0 bound to UNIX address /Users/jialinhuang/Desktop/jango/jialinwebsite/www.sock fd 3
+Python version: 3.12.6 (main, Sep  6 2024, 19:03:47) [Clang 15.0.0 (clang-1500.3.9.4)]
+Python main interpreter initialized at 0x105bdce00
+python threads support enabled
+your server socket listen backlog is limited to 100 connections
+your mercy for graceful operations on workers is 60 seconds
+mapped 145792 bytes (142 KB) for 1 cores
+*** Operational MODE: single process ***
+WSGI app 0 (mountpoint='') ready in 0 seconds on interpreter 0x105bdce00 pid: 28596 (default app)
+*** uWSGI is running in multiple interpreter mode ***
+spawned uWSGI master process (pid: 28596)
+spawned uWSGI worker 1 (pid: 28597, cores: 1)
+Not Found: /
+[pid: 28597|app: 0|req: 1/1] 127.0.0.1 () {52 vars in 836 bytes} [Wed Oct  2 16:12:35 2024] GET / => generated 2671 bytes in 23 msecs (HTTP/1.1 404) 6 headers in 215 bytes (1 switches on core 0)
+Not Found: /
+[pid: 28597|app: 0|req: 2/2] 127.0.0.1 () {52 vars in 836 bytes} [Wed Oct  2 16:12:35 2024] GET / => generated 2671 bytes in 7 msecs (HTTP/1.1 404) 6 headers in 215 bytes (1 switches on core 0)
+Not Found: /
+[pid: 28597|app: 0|req: 3/3] 127.0.0.1 () {52 vars in 836 bytes} [Wed Oct  2 16:12:38 2024] GET / => generated 2671 bytes in 6 msecs (HTTP/1.1 404) 6 headers in 215 bytes (1 switches on core 0)
+[pid: 28597|app: 0|req: 4/4] 127.0.0.1 () {54 vars in 865 bytes} [Wed Oct  2 16:12:40 2024] GET /hello => generated 0 bytes in 6 msecs (HTTP/1.1 301) 5 headers in 197 bytes (1 switches on core 0)
+[pid: 28597|app: 0|req: 5/5] 127.0.0.1 () {54 vars in 867 bytes} [Wed Oct  2 16:12:40 2024] GET /hello/ => generated 5 bytes in 0 msecs (HTTP/1.1 200) 6 headers in 205 bytes (1 switches on core 0)
+[pid: 28597|app: 0|req: 6/6] 127.0.0.1 () {54 vars in 867 bytes} [Wed Oct  2 16:12:41 2024] GET /hello/ => generated 5 bytes in 0 msecs (HTTP/1.1 200) 6 headers in 205 bytes (1 switches on core 0)
+SIGINT/SIGTERM received...killing workers...
+goodbye to uWSGI.
+VACUUM: pidfile removed.
+VACUUM: unix socket /Users/jialinhuang/Desktop/jango/jialinwebsite/www.sock removed.
+*** Starting uWSGI 2.0.27 (64bit) on [Thu Oct  3 00:15:31 2024] ***
+compiled with version: Apple LLVM 15.0.0 (clang-1500.3.9.4) on 02 October 2024 14:56:11
+os: Darwin-23.4.0 Darwin Kernel Version 23.4.0: Wed Feb 21 21:44:43 PST 2024; root:xnu-10063.101.15~2/RELEASE_ARM64_T6000
+nodename: JiaLins-MBP.hitronhub.home
+machine: arm64
+clock source: unix
+pcre jit disabled
+detected number of CPU cores: 10
+current working directory: /Users/jialinhuang/Desktop/jango/jialinwebsite
+writing pidfile to /tmp/dj3-master.pid
+detected binary path: /Users/jialinhuang/Desktop/jango/myenv/bin/uwsgi
+your processes number limit is 2666
+your memory page size is 16384 bytes
+detected max file descriptor number: 256
+lock engine: OSX spinlocks
+thunder lock: disabled (you can enable it with --thunder-lock)
+uwsgi socket 0 bound to UNIX address /Users/jialinhuang/Desktop/jango/jialinwebsite/www.sock fd 3
+Python version: 3.12.6 (main, Sep  6 2024, 19:03:47) [Clang 15.0.0 (clang-1500.3.9.4)]
+Python main interpreter initialized at 0x105e74e00
+python threads support enabled
+your server socket listen backlog is limited to 100 connections
+your mercy for graceful operations on workers is 60 seconds
+mapped 145792 bytes (142 KB) for 1 cores
+*** Operational MODE: single process ***
+WSGI app 0 (mountpoint='') ready in 1 seconds on interpreter 0x105e74e00 pid: 29399 (default app)
+*** uWSGI is running in multiple interpreter mode ***
+spawned uWSGI master process (pid: 29399)
+spawned uWSGI worker 1 (pid: 29400, cores: 1)
+Not Found: /
+[pid: 29400|app: 0|req: 1/1] 127.0.0.1 () {52 vars in 836 bytes} [Wed Oct  2 16:16:37 2024] GET / => generated 2671 bytes in 27 msecs (HTTP/1.1 404) 6 headers in 215 bytes (1 switches on core 0)
+SIGINT/SIGTERM received...killing workers...
+goodbye to uWSGI.
+VACUUM: pidfile removed.
+VACUUM: unix socket /Users/jialinhuang/Desktop/jango/jialinwebsite/www.sock removed.
+*** Starting uWSGI 2.0.27 (64bit) on [Thu Oct  3 00:17:37 2024] ***
+compiled with version: Apple LLVM 15.0.0 (clang-1500.3.9.4) on 02 October 2024 14:56:11
+os: Darwin-23.4.0 Darwin Kernel Version 23.4.0: Wed Feb 21 21:44:43 PST 2024; root:xnu-10063.101.15~2/RELEASE_ARM64_T6000
+nodename: JiaLins-MBP.hitronhub.home
+machine: arm64
+clock source: unix
+pcre jit disabled
+detected number of CPU cores: 10
+current working directory: /Users/jialinhuang/Desktop/jango/jialinwebsite
+writing pidfile to /tmp/dj3-master.pid
+detected binary path: /Users/jialinhuang/Desktop/jango/myenv/bin/uwsgi
+your processes number limit is 2666
+your memory page size is 16384 bytes
+detected max file descriptor number: 256
+lock engine: OSX spinlocks
+thunder lock: disabled (you can enable it with --thunder-lock)
+uwsgi socket 0 bound to UNIX address /Users/jialinhuang/Desktop/jango/jialinwebsite/www.sock fd 3
+Python version: 3.12.6 (main, Sep  6 2024, 19:03:47) [Clang 15.0.0 (clang-1500.3.9.4)]
+Python main interpreter initialized at 0x101cc0e00
+python threads support enabled
+your server socket listen backlog is limited to 100 connections
+your mercy for graceful operations on workers is 60 seconds
+mapped 145792 bytes (142 KB) for 1 cores
+*** Operational MODE: single process ***
+WSGI app 0 (mountpoint='') ready in 0 seconds on interpreter 0x101cc0e00 pid: 30030 (default app)
+*** uWSGI is running in multiple interpreter mode ***
+spawned uWSGI master process (pid: 30030)
+spawned uWSGI worker 1 (pid: 30032, cores: 1)
+Not Found: /
+[pid: 30032|app: 0|req: 1/1] 127.0.0.1 () {54 vars in 855 bytes} [Wed Oct  2 16:17:45 2024] GET / => generated 2671 bytes in 31 msecs (HTTP/1.1 404) 6 headers in 215 bytes (1 switches on core 0)
+Not Found: /
+[pid: 30032|app: 0|req: 2/2] 127.0.0.1 () {54 vars in 855 bytes} [Wed Oct  2 16:17:46 2024] GET / => generated 2671 bytes in 9 msecs (HTTP/1.1 404) 6 headers in 215 bytes (1 switches on core 0)
+Not Found: /
+[pid: 30032|app: 0|req: 3/3] 127.0.0.1 () {54 vars in 855 bytes} [Wed Oct  2 16:19:52 2024] GET / => generated 2671 bytes in 14 msecs (HTTP/1.1 404) 6 headers in 215 bytes (1 switches on core 0)
+SIGINT/SIGTERM received...killing workers...
+goodbye to uWSGI.
+VACUUM: pidfile removed.
+VACUUM: unix socket /Users/jialinhuang/Desktop/jango/jialinwebsite/www.sock removed.
+*** Starting uWSGI 2.0.27 (64bit) on [Thu Oct  3 09:12:16 2024] ***
+compiled with version: Apple LLVM 15.0.0 (clang-1500.3.9.4) on 02 October 2024 14:56:11
+os: Darwin-23.4.0 Darwin Kernel Version 23.4.0: Wed Feb 21 21:44:43 PST 2024; root:xnu-10063.101.15~2/RELEASE_ARM64_T6000
+nodename: JiaLins-MacBook-Pro.local
+machine: arm64
+clock source: unix
+pcre jit disabled
+detected number of CPU cores: 10
+current working directory: /Users/jialinhuang/Desktop/jango/jialinwebsite
+writing pidfile to /tmp/dj3-master.pid
+detected binary path: /Users/jialinhuang/Desktop/jango/myenv/bin/uwsgi
+your processes number limit is 2666
+your memory page size is 16384 bytes
+detected max file descriptor number: 256
+lock engine: OSX spinlocks
+thunder lock: disabled (you can enable it with --thunder-lock)
+uwsgi socket 0 bound to UNIX address /Users/jialinhuang/Desktop/jango/jialinwebsite/www.sock fd 3
+Python version: 3.12.6 (main, Sep  6 2024, 19:03:47) [Clang 15.0.0 (clang-1500.3.9.4)]
+Python main interpreter initialized at 0x103974e00
+python threads support enabled
+your server socket listen backlog is limited to 100 connections
+your mercy for graceful operations on workers is 60 seconds
+mapped 145792 bytes (142 KB) for 1 cores
+*** Operational MODE: single process ***
+WSGI app 0 (mountpoint='') ready in 1 seconds on interpreter 0x103974e00 pid: 31824 (default app)
+*** uWSGI is running in multiple interpreter mode ***
+spawned uWSGI master process (pid: 31824)
+spawned uWSGI worker 1 (pid: 31825, cores: 1)
+Not Found: /
+[pid: 31825|app: 0|req: 1/1] 127.0.0.1 () {52 vars in 836 bytes} [Thu Oct  3 01:12:20 2024] GET / => generated 2671 bytes in 24 msecs (HTTP/1.1 404) 6 headers in 215 bytes (1 switches on core 0)
+[pid: 31825|app: 0|req: 2/2] 127.0.0.1 () {54 vars in 865 bytes} [Thu Oct  3 01:12:23 2024] GET /admin => generated 0 bytes in 7 msecs (HTTP/1.1 301) 5 headers in 197 bytes (1 switches on core 0)
+[pid: 31825|app: 0|req: 3/3] 127.0.0.1 () {54 vars in 867 bytes} [Thu Oct  3 01:12:23 2024] GET /admin/ => generated 0 bytes in 8 msecs (HTTP/1.1 302) 10 headers in 372 bytes (1 switches on core 0)
+[pid: 31825|app: 0|req: 4/4] 127.0.0.1 () {54 vars in 904 bytes} [Thu Oct  3 01:12:23 2024] GET /admin/login/?next=/admin/ => generated 4160 bytes in 36 msecs (HTTP/1.1 200) 10 headers in 470 bytes (1 switches on core 0)
+[pid: 31825|app: 0|req: 5/5] 127.0.0.1 () {58 vars in 989 bytes} [Thu Oct  3 01:12:31 2024] GET /admin/ => generated 0 bytes in 2 msecs (HTTP/1.1 302) 10 headers in 372 bytes (2 switches on core 0)
+[pid: 31825|app: 0|req: 6/6] 127.0.0.1 () {58 vars in 1026 bytes} [Thu Oct  3 01:12:31 2024] GET /admin/login/?next=/admin/ => generated 4160 bytes in 6 msecs (HTTP/1.1 200) 10 headers in 470 bytes (1 switches on core 0)
+Internal Server Error: /admin/login/
+Traceback (most recent call last):
+  File "/Users/jialinhuang/Desktop/jango/myenv/lib/python3.12/site-packages/django/db/backends/utils.py", line 105, in _execute
+    return self.cursor.execute(sql, params)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/jialinhuang/Desktop/jango/myenv/lib/python3.12/site-packages/django/db/backends/sqlite3/base.py", line 354, in execute
+    return super().execute(query, params)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+sqlite3.OperationalError: no such table: auth_user
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "/Users/jialinhuang/Desktop/jango/myenv/lib/python3.12/site-packages/django/core/handlers/exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/jialinhuang/Desktop/jango/myenv/lib/python3.12/site-packages/django/core/handlers/base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/jialinhuang/Desktop/jango/myenv/lib/python3.12/site-packages/django/utils/decorators.py", line 48, in _wrapper
+    return bound_method(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/jialinhuang/Desktop/jango/myenv/lib/python3.12/site-packages/django/views/decorators/cache.py", line 80, in _view_wrapper
+    response = view_func(request, *args, **kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/jialinhuang/Desktop/jango/myenv/lib/python3.12/site-packages/django/contrib/admin/sites.py", line 444, in login
+    return LoginView.as_view(**defaults)(request)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/jialinhuang/Desktop/jango/myenv/lib/python3.12/site-packages/django/views/generic/base.py", line 104, in view
+    return self.dispatch(request, *args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/jialinhuang/Desktop/jango/myenv/lib/python3.12/site-packages/django/utils/decorators.py", line 48, in _wrapper
+    return bound_method(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/jialinhuang/Desktop/jango/myenv/lib/python3.12/site-packages/django/utils/decorators.py", line 48, in _wrapper
+    return bound_method(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/jialinhuang/Desktop/jango/myenv/lib/python3.12/site-packages/django/views/decorators/debug.py", line 143, in sensitive_post_parameters_wrapper
+    return view(request, *args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/jialinhuang/Desktop/jango/myenv/lib/python3.12/site-packages/django/utils/decorators.py", line 48, in _wrapper
+    return bound_method(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/jialinhuang/Desktop/jango/myenv/lib/python3.12/site-packages/django/utils/decorators.py", line 188, in _view_wrapper
+    result = _process_exception(request, e)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/jialinhuang/Desktop/jango/myenv/lib/python3.12/site-packages/django/utils/decorators.py", line 186, in _view_wrapper
+    response = view_func(request, *args, **kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/jialinhuang/Desktop/jango/myenv/lib/python3.12/site-packages/django/utils/decorators.py", line 48, in _wrapper
+    return bound_method(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/jialinhuang/Desktop/jango/myenv/lib/python3.12/site-packages/django/views/decorators/cache.py", line 80, in _view_wrapper
+    response = view_func(request, *args, **kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/jialinhuang/Desktop/jango/myenv/lib/python3.12/site-packages/django/contrib/auth/views.py", line 89, in dispatch
+    return super().dispatch(request, *args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/jialinhuang/Desktop/jango/myenv/lib/python3.12/site-packages/django/views/generic/base.py", line 143, in dispatch
+    return handler(request, *args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/jialinhuang/Desktop/jango/myenv/lib/python3.12/site-packages/django/views/generic/edit.py", line 150, in post
+    if form.is_valid():
+       ^^^^^^^^^^^^^^^
+  File "/Users/jialinhuang/Desktop/jango/myenv/lib/python3.12/site-packages/django/forms/forms.py", line 197, in is_valid
+    return self.is_bound and not self.errors
+                                 ^^^^^^^^^^^
+  File "/Users/jialinhuang/Desktop/jango/myenv/lib/python3.12/site-packages/django/forms/forms.py", line 192, in errors
+    self.full_clean()
+  File "/Users/jialinhuang/Desktop/jango/myenv/lib/python3.12/site-packages/django/forms/forms.py", line 326, in full_clean
+    self._clean_form()
+  File "/Users/jialinhuang/Desktop/jango/myenv/lib/python3.12/site-packages/django/forms/forms.py", line 342, in _clean_form
+    cleaned_data = self.clean()
+                   ^^^^^^^^^^^^
+  File "/Users/jialinhuang/Desktop/jango/myenv/lib/python3.12/site-packages/django/contrib/auth/forms.py", line 356, in clean
+    self.user_cache = authenticate(
+                      ^^^^^^^^^^^^^
+  File "/Users/jialinhuang/Desktop/jango/myenv/lib/python3.12/site-packages/django/views/decorators/debug.py", line 75, in sensitive_variables_wrapper
+    return func(*func_args, **func_kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/jialinhuang/Desktop/jango/myenv/lib/python3.12/site-packages/django/contrib/auth/__init__.py", line 79, in authenticate
+    user = backend.authenticate(request, **credentials)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/jialinhuang/Desktop/jango/myenv/lib/python3.12/site-packages/django/contrib/auth/backends.py", line 42, in authenticate
+    user = UserModel._default_manager.get_by_natural_key(username)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/jialinhuang/Desktop/jango/myenv/lib/python3.12/site-packages/django/contrib/auth/base_user.py", line 37, in get_by_natural_key
+    return self.get(**{self.model.USERNAME_FIELD: username})
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/jialinhuang/Desktop/jango/myenv/lib/python3.12/site-packages/django/db/models/manager.py", line 87, in manager_method
+    return getattr(self.get_queryset(), name)(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/jialinhuang/Desktop/jango/myenv/lib/python3.12/site-packages/django/db/models/query.py", line 645, in get
+    num = len(clone)
+          ^^^^^^^^^^
+  File "/Users/jialinhuang/Desktop/jango/myenv/lib/python3.12/site-packages/django/db/models/query.py", line 382, in __len__
+    self._fetch_all()
+  File "/Users/jialinhuang/Desktop/jango/myenv/lib/python3.12/site-packages/django/db/models/query.py", line 1928, in _fetch_all
+    self._result_cache = list(self._iterable_class(self))
+                         ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/jialinhuang/Desktop/jango/myenv/lib/python3.12/site-packages/django/db/models/query.py", line 91, in __iter__
+    results = compiler.execute_sql(
+              ^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/jialinhuang/Desktop/jango/myenv/lib/python3.12/site-packages/django/db/models/sql/compiler.py", line 1574, in execute_sql
+    cursor.execute(sql, params)
+  File "/Users/jialinhuang/Desktop/jango/myenv/lib/python3.12/site-packages/django/db/backends/utils.py", line 122, in execute
+    return super().execute(sql, params)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/jialinhuang/Desktop/jango/myenv/lib/python3.12/site-packages/django/db/backends/utils.py", line 79, in execute
+    return self._execute_with_wrappers(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/jialinhuang/Desktop/jango/myenv/lib/python3.12/site-packages/django/db/backends/utils.py", line 92, in _execute_with_wrappers
+    return executor(sql, params, many, context)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/jialinhuang/Desktop/jango/myenv/lib/python3.12/site-packages/django/db/backends/utils.py", line 100, in _execute
+    with self.db.wrap_database_errors:
+         ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/jialinhuang/Desktop/jango/myenv/lib/python3.12/site-packages/django/db/utils.py", line 91, in __exit__
+    raise dj_exc_value.with_traceback(traceback) from exc_value
+  File "/Users/jialinhuang/Desktop/jango/myenv/lib/python3.12/site-packages/django/db/backends/utils.py", line 105, in _execute
+    return self.cursor.execute(sql, params)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/jialinhuang/Desktop/jango/myenv/lib/python3.12/site-packages/django/db/backends/sqlite3/base.py", line 354, in execute
+    return super().execute(query, params)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+django.db.utils.OperationalError: no such table: auth_user
+[pid: 31825|app: 0|req: 7/7] 127.0.0.1 () {64 vars in 1174 bytes} [Thu Oct  3 01:12:34 2024] POST /admin/login/?next=/admin/ => generated 233937 bytes in 62 msecs (HTTP/1.1 500) 7 headers in 243 bytes (29 switches on core 0)
+[pid: 31825|app: 0|req: 8/8] 127.0.0.1 () {58 vars in 1026 bytes} [Thu Oct  3 01:12:40 2024] GET /admin/login/?next=/admin/ => generated 4160 bytes in 4 msecs (HTTP/1.1 200) 10 headers in 470 bytes (1 switches on core 0)
+*** Starting uWSGI 2.0.27 (64bit) on [Thu Oct  3 09:23:06 2024] ***
+compiled with version: Apple LLVM 15.0.0 (clang-1500.3.9.4) on 02 October 2024 14:56:11
+os: Darwin-23.4.0 Darwin Kernel Version 23.4.0: Wed Feb 21 21:44:43 PST 2024; root:xnu-10063.101.15~2/RELEASE_ARM64_T6000
+nodename: JiaLins-MacBook-Pro.local
+machine: arm64
+clock source: unix
+pcre jit disabled
+detected number of CPU cores: 10
+current working directory: /Users/jialinhuang/Desktop/jango/jialinwebsite
+writing pidfile to /tmp/dj3-master.pid
+detected binary path: /Users/jialinhuang/Desktop/jango/myenv/bin/uwsgi
+your processes number limit is 2666
+your memory page size is 16384 bytes
+detected max file descriptor number: 256
+lock engine: OSX spinlocks
+thunder lock: disabled (you can enable it with --thunder-lock)
+uwsgi socket 0 bound to UNIX address /Users/jialinhuang/Desktop/jango/jialinwebsite/www.sock fd 3
+Python version: 3.12.6 (main, Sep  6 2024, 19:03:47) [Clang 15.0.0 (clang-1500.3.9.4)]
+Python main interpreter initialized at 0x105a54e00
+python threads support enabled
+your server socket listen backlog is limited to 100 connections
+your mercy for graceful operations on workers is 60 seconds
+mapped 145792 bytes (142 KB) for 1 cores
+*** Operational MODE: single process ***
+WSGI app 0 (mountpoint='') ready in 0 seconds on interpreter 0x105a54e00 pid: 34668 (default app)
+*** uWSGI is running in multiple interpreter mode ***
+spawned uWSGI master process (pid: 34668)
+spawned uWSGI worker 1 (pid: 34669, cores: 1)
+SIGINT/SIGTERM received...killing workers...
+goodbye to uWSGI.
+VACUUM: pidfile removed.
+VACUUM: unix socket /Users/jialinhuang/Desktop/jango/jialinwebsite/www.sock removed.
+*** Starting uWSGI 2.0.27 (64bit) on [Thu Oct  3 09:23:45 2024] ***
+compiled with version: Apple LLVM 15.0.0 (clang-1500.3.9.4) on 02 October 2024 14:56:11
+os: Darwin-23.4.0 Darwin Kernel Version 23.4.0: Wed Feb 21 21:44:43 PST 2024; root:xnu-10063.101.15~2/RELEASE_ARM64_T6000
+nodename: JiaLins-MacBook-Pro.local
+machine: arm64
+clock source: unix
+pcre jit disabled
+detected number of CPU cores: 10
+current working directory: /Users/jialinhuang/Desktop/jango/jialinwebsite
+writing pidfile to /tmp/dj3-master.pid
+detected binary path: /Users/jialinhuang/Desktop/jango/myenv/bin/uwsgi
+your processes number limit is 2666
+your memory page size is 16384 bytes
+detected max file descriptor number: 256
+lock engine: OSX spinlocks
+thunder lock: disabled (you can enable it with --thunder-lock)
+uwsgi socket 0 bound to TCP address 127.0.0.1:8000; fd 3
+Python version: 3.12.6 (main, Sep  6 2024, 19:03:47) [Clang 15.0.0 (clang-1500.3.9.4)]
+Python main interpreter initialized at 0x10549ce00
+python threads support enabled
+your server socket listen backlog is limited to 100 connections
+your mercy for graceful operations on workers is 60 seconds
+mapped 145792 bytes (142 KB) for 1 cores
+*** Operational MODE: single process ***
+WSGI app 0 (mountpoint='') ready in 0 seconds on interpreter 0x10549ce00 pid: 34838 (default app)
+*** uWSGI is running in multiple interpreter mode ***
+spawned uWSGI master process (pid: 34838)
+spawned uWSGI worker 1 (pid: 34839, cores: 1)
+Not Found: /
+[pid: 34839|app: 0|req: 1/1] 127.0.0.1 () {56 vars in 912 bytes} [Thu Oct  3 01:23:47 2024] GET / => generated 2671 bytes in 25 msecs (HTTP/1.1 404) 6 headers in 215 bytes (1 switches on core 0)
+[pid: 34839|app: 0|req: 2/2] 127.0.0.1 () {56 vars in 920 bytes} [Thu Oct  3 01:23:57 2024] GET /ping => generated 0 bytes in 11 msecs (HTTP/1.1 301) 5 headers in 196 bytes (1 switches on core 0)
+[pid: 34839|app: 0|req: 3/3] 127.0.0.1 () {56 vars in 922 bytes} [Thu Oct  3 01:23:58 2024] GET /ping/ => generated 4 bytes in 0 msecs (HTTP/1.1 200) 6 headers in 205 bytes (1 switches on core 0)
+[pid: 34839|app: 0|req: 4/4] 127.0.0.1 () {56 vars in 922 bytes} [Thu Oct  3 01:23:58 2024] GET /ping/ => generated 4 bytes in 1 msecs (HTTP/1.1 200) 6 headers in 205 bytes (1 switches on core 0)
+SIGINT/SIGTERM received...killing workers...
+goodbye to uWSGI.
+VACUUM: pidfile removed.
+*** Starting uWSGI 2.0.27 (64bit) on [Thu Oct  3 09:36:33 2024] ***
+compiled with version: Apple LLVM 15.0.0 (clang-1500.3.9.4) on 02 October 2024 14:56:11
+os: Darwin-23.4.0 Darwin Kernel Version 23.4.0: Wed Feb 21 21:44:43 PST 2024; root:xnu-10063.101.15~2/RELEASE_ARM64_T6000
+nodename: JiaLins-MacBook-Pro.local
+machine: arm64
+clock source: unix
+pcre jit disabled
+detected number of CPU cores: 10
+current working directory: /Users/jialinhuang/Desktop/jango/jialinwebsite
+writing pidfile to /tmp/dj3-master.pid
+detected binary path: /Users/jialinhuang/Desktop/jango/myenv/bin/uwsgi
+your processes number limit is 2666
+your memory page size is 16384 bytes
+detected max file descriptor number: 256
+lock engine: OSX spinlocks
+thunder lock: disabled (you can enable it with --thunder-lock)
+uwsgi socket 0 bound to UNIX address /Users/jialinhuang/Desktop/jango/jialinwebsite/www.sock fd 3
+Python version: 3.12.6 (main, Sep  6 2024, 19:03:47) [Clang 15.0.0 (clang-1500.3.9.4)]
+Python main interpreter initialized at 0x103eb8e00
+python threads support enabled
+your server socket listen backlog is limited to 100 connections
+your mercy for graceful operations on workers is 60 seconds
+mapped 145792 bytes (142 KB) for 1 cores
+*** Operational MODE: single process ***
+WSGI app 0 (mountpoint='') ready in 1 seconds on interpreter 0x103eb8e00 pid: 37823 (default app)
+*** uWSGI is running in multiple interpreter mode ***
+spawned uWSGI master process (pid: 37823)
+spawned uWSGI worker 1 (pid: 37825, cores: 1)
+SIGINT/SIGTERM received...killing workers...
+goodbye to uWSGI.
+VACUUM: pidfile removed.
+VACUUM: unix socket /Users/jialinhuang/Desktop/jango/jialinwebsite/www.sock removed.
+*** Starting uWSGI 2.0.27 (64bit) on [Thu Oct  3 10:52:19 2024] ***
+compiled with version: Apple LLVM 15.0.0 (clang-1500.3.9.4) on 02 October 2024 14:56:11
+os: Darwin-23.4.0 Darwin Kernel Version 23.4.0: Wed Feb 21 21:44:43 PST 2024; root:xnu-10063.101.15~2/RELEASE_ARM64_T6000
+nodename: JiaLins-MacBook-Pro.local
+machine: arm64
+clock source: unix
+pcre jit disabled
+detected number of CPU cores: 10
+current working directory: /Users/jialinhuang/Desktop/jango/jialinwebsite
+writing pidfile to /tmp/dj3-master.pid
+detected binary path: /Users/jialinhuang/Desktop/jango/myenv/bin/uwsgi
+your processes number limit is 2666
+your memory page size is 16384 bytes
+detected max file descriptor number: 256
+lock engine: OSX spinlocks
+thunder lock: disabled (you can enable it with --thunder-lock)
+uwsgi socket 0 bound to UNIX address /Users/jialinhuang/Desktop/jango/jialinwebsite/www.sock fd 3
+Python version: 3.12.6 (main, Sep  6 2024, 19:03:47) [Clang 15.0.0 (clang-1500.3.9.4)]
+Python main interpreter initialized at 0x105e24e00
+python threads support enabled
+your server socket listen backlog is limited to 100 connections
+your mercy for graceful operations on workers is 60 seconds
+mapped 145792 bytes (142 KB) for 1 cores
+*** Operational MODE: single process ***
+WSGI app 0 (mountpoint='') ready in 0 seconds on interpreter 0x105e24e00 pid: 61642 (default app)
+*** uWSGI is running in multiple interpreter mode ***
+spawned uWSGI master process (pid: 61642)
+spawned uWSGI worker 1 (pid: 61649, cores: 1)
+Not Found: /
+[pid: 61649|app: 0|req: 1/1] 127.0.0.1 () {54 vars in 1046 bytes} [Thu Oct  3 02:52:54 2024] GET / => generated 2671 bytes in 31 msecs (HTTP/1.1 404) 6 headers in 215 bytes (1 switches on core 0)
+[pid: 61649|app: 0|req: 2/2] 127.0.0.1 () {56 vars in 1077 bytes} [Thu Oct  3 02:52:59 2024] GET /hello/ => generated 5 bytes in 1 msecs (HTTP/1.1 200) 6 headers in 205 bytes (1 switches on core 0)
+SIGINT/SIGTERM received...killing workers...
+goodbye to uWSGI.
+VACUUM: pidfile removed.
+VACUUM: unix socket /Users/jialinhuang/Desktop/jango/jialinwebsite/www.sock removed.
